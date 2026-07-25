@@ -12,7 +12,7 @@
 
 ## Preview
 
-![Suzuran Preview](pets/suzuran-preview-spritesheet.png)
+![Suzuran Preview](pets/spritesheet.webp)
 
 
 ---
@@ -23,7 +23,7 @@ Codex Pet 本体位于：
 
 ```
 
-pets/suzuran/
+pets/
 
 ```
 
@@ -32,8 +32,6 @@ pets/suzuran/
 ```
 
 pets/
-
-└── suzuran/
 
 ```
 ├── pet.json
@@ -187,12 +185,10 @@ Suzuran-Codex-Pet/
 
 │
 ├── pets/
-│
-│   └── suzuran/
-│       │
-│       ├── pet.json
-│       │
-│       └── spritesheet.webp
+│   │
+│   ├── pet.json
+│   │
+│   └── spritesheet.webp
 │
 │
 ├── output_sequences/
@@ -224,10 +220,10 @@ Suzuran-Codex-Pet/
 将：
 
 ```
-pets/suzuran/
+pets/
 ```
 
-复制到 Codex Pet 的 Pet 目录即可。
+复制到 Codex Pet 的 Pet 目录并更名即可。
 
 Codex 会读取：
 
