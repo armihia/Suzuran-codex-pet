@@ -1,0 +1,62 @@
+{
+  "source_video": "我的视频.mp4",
+  "source_fps": 24.0,
+  "extraction_interval": 2,
+  "selected": [
+    {
+      "id": "frame_00000080.jpg",
+      "frame_index": 80,
+      "time_seconds": 3.3333,
+      "url": "/api/session/cf31a448-d20b-4e63-8149-2df491cf04e1/candidate/frame_00000080.jpg"
+    },
+    {
+      "id": "frame_00000082.jpg",
+      "frame_index": 82,
+      "time_seconds": 3.4167,
+      "url": "/api/session/cf31a448-d20b-4e63-8149-2df491cf04e1/candidate/frame_00000082.jpg"
+    },
+    {
+      "id": "frame_00000084.jpg",
+      "frame_index": 84,
+      "time_seconds": 3.5,
+      "url": "/api/session/cf31a448-d20b-4e63-8149-2df491cf04e1/candidate/frame_00000084.jpg"
+    },
+    {
+      "id": "frame_00000086.jpg",
+      "frame_index": 86,
+      "time_seconds": 3.5833,
+      "url": "/api/session/cf31a448-d20b-4e63-8149-2df491cf04e1/candidate/frame_00000086.jpg"
+    },
+    {
+      "id": "frame_00000088.jpg",
+      "frame_index": 88,
+      "time_seconds": 3.6667,
+      "url": "/api/session/cf31a448-d20b-4e63-8149-2df491cf04e1/candidate/frame_00000088.jpg"
+    },
+    {
+      "id": "frame_00000090.jpg",
+      "frame_index": 90,
+      "time_seconds": 3.75,
+      "url": "/api/session/cf31a448-d20b-4e63-8149-2df491cf04e1/candidate/frame_00000090.jpg"
+    },
+    {
+      "id": "frame_00000092.jpg",
+      "frame_index": 92,
+      "time_seconds": 3.8333,
+      "url": "/api/session/cf31a448-d20b-4e63-8149-2df491cf04e1/candidate/frame_00000092.jpg"
+    },
+    {
+      "id": "frame_00000094.jpg",
+      "frame_index": 94,
+      "time_seconds": 3.9167,
+      "url": "/api/session/cf31a448-d20b-4e63-8149-2df491cf04e1/candidate/frame_00000094.jpg"
+    }
+  ],
+  "frame_count": 8,
+  "cell_width": 768,
+  "cell_height": 832,
+  "canvas_width": 6144,
+  "canvas_height": 832,
+  "alignment": "shared_crop",
+  "output": "suzuran_move2_8f_768x832.png"
+}

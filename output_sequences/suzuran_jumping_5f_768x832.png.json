@@ -1,0 +1,44 @@
+{
+  "source_video": "jimeng-2026-07-26-8810-以输入图片中的铃兰（Suzuran）为唯一角色参考，生成一段适合截取游戏精灵关键....mp4",
+  "source_fps": 24.149377593360995,
+  "extraction_interval": 4,
+  "selected": [
+    {
+      "id": "frame_00000012.jpg",
+      "frame_index": 12,
+      "time_seconds": 0.4969,
+      "url": "/api/session/31959cd6-4695-4cda-9a09-0cac40aea472/candidate/frame_00000012.jpg"
+    },
+    {
+      "id": "frame_00000024.jpg",
+      "frame_index": 24,
+      "time_seconds": 0.9938,
+      "url": "/api/session/31959cd6-4695-4cda-9a09-0cac40aea472/candidate/frame_00000024.jpg"
+    },
+    {
+      "id": "frame_00000048.jpg",
+      "frame_index": 48,
+      "time_seconds": 1.9876,
+      "url": "/api/session/31959cd6-4695-4cda-9a09-0cac40aea472/candidate/frame_00000048.jpg"
+    },
+    {
+      "id": "frame_00000064.jpg",
+      "frame_index": 64,
+      "time_seconds": 2.6502,
+      "url": "/api/session/31959cd6-4695-4cda-9a09-0cac40aea472/candidate/frame_00000064.jpg"
+    },
+    {
+      "id": "frame_00000072.jpg",
+      "frame_index": 72,
+      "time_seconds": 2.9814,
+      "url": "/api/session/31959cd6-4695-4cda-9a09-0cac40aea472/candidate/frame_00000072.jpg"
+    }
+  ],
+  "frame_count": 5,
+  "cell_width": 768,
+  "cell_height": 832,
+  "canvas_width": 3840,
+  "canvas_height": 832,
+  "alignment": "shared_crop",
+  "output": "suzuran_jumping_5f_768x832.png"
+}
